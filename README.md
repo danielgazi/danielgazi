@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @danielgazi
+- 👀 I’m for a placement year software engineering role
+- 🌱 I’m currently a 2nd year undergraduate student studying Software Engineering BEng Honours at the University of Westminster
+- 📫 How to reach me: w1830011@my.westminster.ac.uk
+
+<!---
+danielgazi/danielgazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
